@@ -261,5 +261,5 @@ _MicroCodePresent    du 'Failure - Microcode present.',13,10,0
 _OC_Locked           du 'Failure - Overclocking Locked.',13,10,0
 _MailBoxError        du 'Failure - Mailbox Error.',13,10,0
 _MPServices          du 'Failure - EFI_MP_SERVICES_PROTOCOL Error.',13,10,0
-_Success1            du 'Success on first CPU, no second CPU or failure on second CPU.',13,10,0
+_Success1            du 'Success on first CPU; no second CPU or failure on second CPU.',13,10,0
 _Success2            du 'Success on both CPUs.',13,10,0
